@@ -1,5 +1,7 @@
 # Eco Icons
 
+**[한국어 문서](README.ko.md)**
+
 Icon pack for ONYX BOOX series devices.
 
 ## Supported icons
@@ -8,13 +10,13 @@ Icon pack for ONYX BOOX series devices.
 * Goolge Play Books
 * koreader
 * inoreader
-* Yes24 (서점, eBook, 전자도서관 등)
-* 알라딘 (서점, eBook, 전자도서관 등)
-* 교보문고 (서점, eBook, 전자도서관 등)
-* 네이버 시리즈
-* 밀리의 서재 (일반 및 E-Ink 버전)
-* 리디북스
-* 카카오페이지
+* Yes24 (Bookstore, eBook, E-library, etc.)
+* Aladin (Bookstore, eBook, E-library, etc.)
+* KyoboBooks (Bookstore, eBook, E-library, etc.)
+* NAVER Series
+* Millie (Normal and E-Ink version)
+* Ridibooks
+* Kakao Page
 
 ## How to use?
 
