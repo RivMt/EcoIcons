@@ -4,10 +4,16 @@ ONYX BOOX 시리즈 기기를 위한 아이콘 팩입니다.
 
 ## 지원하는 아이콘
 
+![모든 아이콘](doc/grid.png)
+
 * Goolge Play
 * Goolge Play Books
 * koreader
 * inoreader
+* Chrome
+* Kobo
+* Feedly
+* 킨들
 * Yes24 (서점, eBook, 전자도서관 등)
 * 알라딘 (서점, eBook, 전자도서관 등)
 * 교보문고 (서점, eBook, 전자도서관 등)

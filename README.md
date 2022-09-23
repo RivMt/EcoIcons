@@ -6,10 +6,16 @@ Icon pack for ONYX BOOX series devices.
 
 ## Supported icons
 
+![All Icons](doc/grid.png)
+
 * Goolge Play
 * Goolge Play Books
 * koreader
 * inoreader
+* Chrome
+* Kobo Books
+* Feedly
+* Kindle
 * Yes24 (Bookstore, eBook, E-library, etc.)
 * Aladin (Bookstore, eBook, E-library, etc.)
 * KyoboBooks (Bookstore, eBook, E-library, etc.)
