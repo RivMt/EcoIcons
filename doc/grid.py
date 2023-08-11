@@ -28,4 +28,4 @@ for file in pngs:
     index += 1
 
 # Save grid image
-background.save("grid.png")
+background.save("../doc/grid.png")
