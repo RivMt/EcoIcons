@@ -2,6 +2,7 @@
 outputSize=512
 echo "Begin conversion..."
 echo ""
+mkdir out
 for file in ./res/*.svg;
 do
     filename=$(basename -- "$file")
