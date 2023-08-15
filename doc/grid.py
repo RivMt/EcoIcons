@@ -20,6 +20,7 @@ background = Image.new("RGBA", ((size + margin) * columns, (size + margin) * row
 # Insert Icon
 index = 0
 for file in pngs:
+    print(f"Handling {file}")
     pos = (margin + (index % columns) * (size + margin), margin + (int(index / columns)) * (size + margin))
     filename = "../out/" + file
     icon = Image.open(filename, mode="r")
