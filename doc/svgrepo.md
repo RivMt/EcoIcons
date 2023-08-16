@@ -9,3 +9,5 @@ Below icons are originally from SVG Repo and modified.
 - Youtube Music
 - Foldersync
 - WireGuard
+- Google
+- Gmail
